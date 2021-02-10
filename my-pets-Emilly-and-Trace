@@ -1,0 +1,19 @@
+<!DOCUTYPE html>
+<html>
+  <head>
+    <title>My Pets Emilly and Trace</title>
+  </head>
+  <body> 
+    <h1>Emilly and Trace</h2>
+    <h2> My Fur Babies</h2> 
+    <p>I have two cats. Their names are Trace and Emily. They are both female. While they are both beautiful and withe different personalities, they have totally different backgrounds. Emilly was adopted as a kitten while Trace was a stray. I named her Trace because I believe she found her way home.
+    </p>
+    <p>Trace likes meat from chicken and fish while Emilly loves beef. They both consume human food although I know it is not the healthiest option for them.
+    </p>
+    <h2>Characteristics of Both Cats</h2>
+    <ul>
+      <li>Both are female</li>
+      <li>consume more meat than human food</li>
+    </ul>
+  </body>
+</html>
